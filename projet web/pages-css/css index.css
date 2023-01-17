@@ -1,0 +1,144 @@
+.menu {
+  background-color: rgb(197, 156, 10);
+  padding: 14px;
+  
+}
+div p a{
+  color: rgb(255, 251, 251);
+  text-decoration: dotted;
+  margin-left: 10%;
+  text-align: center;
+font-style: oblique;
+font-size: 1.4em;
+
+}
+header p{
+  margin-left: 25%;
+}
+div.gallery {
+  
+ margin: 20px;
+  margin-right: 63%;
+  width: 70px;
+}
+img{
+  border-radius: 100%;
+
+  border-color:rgb(197, 156, 10);
+  filter: drop-shadow(8px 8px 10px rgb(233, 171, 77));
+
+}
+
+
+aside{
+  background-image: url("../images/istockphoto-517188688-612x612.jpg");
+  border-radius: 30px;
+  background-repeat: no-repeat;
+  background-position-y:bottom ;
+  background-size: 100% 85% ;
+  
+}
+td span h1{
+  width:1000px;
+  text-align:center;
+  font-family: cursive; 
+}
+
+
+h1.display-1 {
+    font-size: calc(0.05rem + 5.3vw); /* heki faza l jdida*/
+    width: 1000px;/*bech teb3ed al photo*/
+    margin-left: 30px;
+}
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+.text-color {
+  color: rgb(106, 100, 92) !important;
+}
+.centre{
+  text-align: center;
+  
+}
+
+  body {
+    background-image:
+    linear-gradient(to right, rgb(241, 237, 237), rgb(215, 203, 136));
+    }
+.in{
+  padding-top: px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.button{
+  display: inline-block;
+  background-color: rgb(226, 222, 222);
+  margin-right: 0em;
+  font-size: x-large;
+  display: inline-block;
+}
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+.position-absolute {
+  position: absolute !important;
+}
+h1, .font-weight-bolder {
+  font-weight: 900 !important;
+}
+@media (max-width: 1200px)
+h1, .h1 {
+  font-size: calc(1.375rem + 1.5vw);
+}
+/*div {
+    width: 100px;
+    height: 100px;
+    background-image: url("../images/fond-lumieres-dore-bokeh_1048-9227.webp");
+    position: relative;
+    animation: mymove 5s infinite;
+    animation-delay: 2s;
+    
+  }
+  span
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+  }
+  
+/*nav{
+    width: 40%;
+     height: max-content;
+    background-color: aquamarine;
+}
+*/
+
+  

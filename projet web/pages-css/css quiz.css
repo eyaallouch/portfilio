@@ -1,0 +1,59 @@
+.menu {
+    background-color: rgb(197, 156, 10);
+    padding: 14px;
+ 
+    
+  }
+  body {
+    background-image:
+    linear-gradient(to right, rgb(241, 237, 237), rgb(215, 203, 136));
+    }
+  header p{
+    margin-left: 25%;
+  }
+  div p a{
+    color: rgb(255, 251, 251);
+    text-decoration: dotted;
+    margin-left: 10%;
+    text-align: center;
+  font-style: oblique;
+  font-size: 1.4em;
+  }
+  article{
+    margin-left: 120px;
+    margin-right: 120px;
+    border-style: dashed;
+    border-width: 0px;
+    background-color: rgb(249, 249, 243);
+    border-radius: 20%;
+      
+  }
+  .text-uppercase {
+    text-transform: uppercase !important;
+  }
+  span{
+    margin-left: 470px;
+     font-size: x-large;
+     text-align: center;
+    }
+    
+    h2{
+   
+      padding: 1ch;
+      background-color: rgb(200, 205, 153);
+      border-radius: 30px;
+      color: rgb(193, 170, 79)  ;
+      -webkit-text-stroke: 1px #8b7910;
+      
+    }
+    article div {
+      text-align: center;
+      font-size: 20px;
+      
+    }
+article div button{ background-color: rgb(161, 161, 99);
+  border-radius: 10%;
+height: 2cm;
+width: 3cm;
+
+}

@@ -1,0 +1,114 @@
+.menu {
+    background-color: rgb(197, 156, 10);
+    padding: 14px;
+    
+  }
+  div p a{
+    color: rgb(255, 251, 251);
+    text-decoration: dotted;
+    margin-left: 10%;
+    text-align: center;
+  font-style: oblique;
+  font-size: 1.4em;
+  
+  }
+ header p{
+    margin-left: 30%;
+  }
+
+.text-uppercase {
+    text-transform: uppercase !important;
+  }
+span{
+  margin-left: 600px;
+   font-size: xx-large;
+   
+  }
+  h2{
+    padding: 30px;
+    background-color: rgb(200, 205, 153);
+    border-radius: 30px;
+    color: rgb(193, 170, 79)  ;
+    -webkit-text-stroke: 1px #8b7910;
+    }
+  img.in{
+    margin-left: 250px;
+
+  }  
+  
+  body {
+      background-image:
+      linear-gradient(to right, rgb(241, 237, 237), rgb(215, 203, 136));
+      }
+  article{
+    margin-left: 120px;
+    margin-right: 120px;
+    border-style: dashed;
+    border-width: 0px;
+    background-color: rgb(249, 249, 243);
+    border-radius: 20%;
+      
+  }
+  article div {
+    text-align: center;
+    font-size: 20px;
+    
+  }
+  label {
+    margin-left: 50px;
+    color: rgb(62, 6, 6);
+  }
+  #pseudo {
+    margin-left: 20px;
+  }
+#left{
+  margin-right: 276px;
+}
+#Masculin{
+  margin-left: 20px;
+}
+#commentaires{
+  border-radius: 5%;
+  border-color: rgb(47, 27, 10);
+margin-left: 62px;
+}
+#position_date{
+  margin-right:46px;
+}
+div p{
+  margin-right: 185px;
+  color: rgb(108, 31, 31);
+  
+}
+#envoyer{
+  background-color:rgb(182, 161, 133);
+  margin-left: 10px;
+}
+
+button{
+  border-radius: 15%;
+  color: rgb(104, 104, 94);;
+}
+img{
+ border-radius: 100%;
+
+  border-color:rgb(197, 156, 10);
+  filter: drop-shadow(8px 8px 10px rgb(233, 171, 77));
+
+}
+#masc{
+  margin-left:0px ;
+   margin-right:50px;
+}
+#femi{
+  margin-left:0px
+}
+.in{
+  width: 40px;
+  height: 40px; 
+}
+.photo{
+ 
+  width: 50px;
+  height: 50px;
+}

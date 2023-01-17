@@ -1,0 +1,97 @@
+.menu {
+    background-color: rgb(197, 156, 10);
+    padding: 14px;
+    
+  }
+  div p a{
+    color: rgb(255, 251, 251);
+    text-decoration: dotted;
+    margin-left: 10%;
+    text-align: center;
+  font-style: oblique;
+  font-size: 1.4em;
+  
+  }
+
+
+
+
+  header p{
+    margin-left: 25%;
+  }
+  .text-uppercase {
+    text-transform: uppercase !important;
+  }
+.text-color{
+color:rgb(193, 170, 79);}
+h2{
+  padding: 20px;
+  background-color: rgb(200, 205, 153);
+  border-radius: 30px;
+  color: rgb(193, 170, 79)  ;
+  text-align: center;
+  -webkit-text-stroke: 1px #8b7910;} 
+
+
+body {
+    background-image:
+    linear-gradient(to right, rgb(241, 237, 237), rgb(215, 203, 136));
+    }
+#article1{
+      margin-left: 70px ;
+      margin-right: 400px;
+      border-style: dashed;
+      border-width: 0px;
+      background-color: rgb(249, 249, 243);
+      border-radius: 20%;
+    animation-name: exp;
+    animation-delay: 4s;
+    }
+       
+/* #prb{
+border: 4px solid;
+background-color: blue;
+width: auto;
+
+ } */  
+    
+    #article3{
+    
+     
+margin-top: 0px;
+      margin-left: 70px ;/*to the left */
+      margin-bottom: 5px;/*yeetl3o w yhbto */
+      border-style: dashed;
+      border-width: 0px;
+      background-color: rgb(249, 249, 243);
+      border-radius: 20%;
+      animation-name: exp;  
+    }
+    img{
+      border-radius: 100%;
+     
+       border-color:rgb(197, 156, 10);
+       filter: drop-shadow(8px 8px 10px rgb(233, 171, 77));
+       animation-name: exp;
+     
+     }
+     li{
+      color: #8b7910;
+      
+     }
+    h4{
+      margin: 10px;
+      color: black;
+      display: inline-block;/*bch tlasa9 l klem fard star */
+      
+    }
+    footer{
+  
+ 
+    }
+
+   @keyframes exp{
+    from {background-color: red;}
+    to {background-color: yellow;}
+    
+  }
